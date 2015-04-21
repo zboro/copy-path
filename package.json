@@ -1,0 +1,17 @@
+{
+    "name": "copy-path",
+    "main": "./index.coffee",
+    "version": "0.0.0",
+    "description": "Copies path of current file to clipboard",
+    "activationCommands": {
+        "atom-text-editor": "copy-path:copy"
+    },
+    "repository": "https://github.com/atom/hello",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=0.174.0 <2.0.0"
+    },
+    "dependencies": {
+
+    }
+}
