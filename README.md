@@ -1,5 +1,3 @@
-# hello package
+# Copy path
 
-A short description of your package.
-
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Provides copy-path command to copy relative path to current file. Path is relative to git root folder if file is in git repository, otherwise it is relative to project root.
